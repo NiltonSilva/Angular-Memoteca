@@ -29,6 +29,102 @@
       "autoria": "Coach de Fracassos",
       "modelo": "modelo2",
       "id": 5
+    },
+    {
+      "conteudo": "Acorde cedo para fracassar com calma.",
+      "autoria": "Coach de Fracassos",
+      "modelo": "modelo2",
+      "id": 6
+    },
+    {
+      "conteudo": "Foi difícil chegar até aqui, mesmo não chegando em lugar algum.",
+      "autoria": "Coach de Fracassos",
+      "modelo": "modelo1",
+      "id": 7
+    },
+    {
+      "conteudo": "A vida não é uma caixinha de surpresas, é um container de decepções.",
+      "autoria": "Coache de Fracassos",
+      "modelo": "modelo3",
+      "id": 8
+    },
+    {
+      "conteudo": "Você não pode mudar o seu passado, mas pode estragar o seu futuro.",
+      "autoria": "Coache de Fracassos",
+      "modelo": "modelo2",
+      "id": 9
+    },
+    {
+      "conteudo": "Nunca foi azar. Sempre foi incompetência.",
+      "autoria": "Coache de Fracassos",
+      "modelo": "modelo2",
+      "id": 10
+    },
+    {
+      "conteudo": "O problema não é a segunda-feira, é a sua vida.",
+      "autoria": "Coache de Fracassos",
+      "modelo": "modelo1",
+      "id": 11
+    },
+    {
+      "conteudo": "Tudo passa, nem que seja por cima da você.",
+      "autoria": "Coache de Fracassos",
+      "modelo": "modelo1",
+      "id": 12
+    },
+    {
+      "conteudo": "Persista, insista e desista.",
+      "autoria": "Coache de Fracassos",
+      "modelo": "modelo1",
+      "id": 13
+    },
+    {
+      "conteudo": "Estava ruim, depois de muito esforço ficou pior.",
+      "autoria": "Coache de Fracassos",
+      "modelo": "modelo1",
+      "id": 14
+    },
+    {
+      "conteudo": "No início você acha que não vai conseguir. Depois você tem certeza.",
+      "autoria": "Coache de Fracassos",
+      "modelo": "modelo2",
+      "id": 15
+    },
+    {
+      "id": 16,
+      "conteudo": "Você ainda não chegou lá, mas olha o quanto você já se fudeu",
+      "autoria": "Coache de Fracassos",
+      "modelo": "modelo"
+    },
+    {
+      "conteudo": "Não seja foda. Desista!",
+      "autoria": "Coache de Fracassos",
+      "modelo": "modelo3",
+      "id": 17
+    },
+    {
+      "conteudo": "Não tenha medo do fracasso. Tenha costume.",
+      "autoria": "Coache de Fracassos",
+      "modelo": "modelo1",
+      "id": 18
+    },
+    {
+      "conteudo": "Sem lutar não há derrotas.",
+      "autoria": "Coache de Fracassos",
+      "modelo": "modelo3",
+      "id": 19
+    },
+    {
+      "conteudo": "Você é mais fraco do que pensa.",
+      "autoria": "Coache de Fracassos",
+      "modelo": "modelo1",
+      "id": 20
+    },
+    {
+      "conteudo": "O caminho é longo, mas a derrota é certa",
+      "autoria": "Coache de Fracassos",
+      "modelo": "modelo3",
+      "id": 21
     }
   ]
 }
