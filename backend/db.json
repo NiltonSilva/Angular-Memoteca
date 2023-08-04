@@ -2,9 +2,9 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "O Angular é um excelente framework.",
-      "autoria": "Nilton",
-      "modelo": "modelo1"
+      "conteudo": "Não sabendo que era impossível, foi lá e soube.",
+      "autoria": "Coach de Fracassos",
+      "modelo": "modelo3"
     },
     {
       "id": 2,
@@ -23,6 +23,12 @@
       "autoria": "Mestre Yoda",
       "modelo": "modelo1",
       "id": 4
+    },
+    {
+      "conteudo": "Em vez de desistir nem comece",
+      "autoria": "Coach de Fracassos",
+      "modelo": "modelo2",
+      "id": 5
     }
   ]
 }
