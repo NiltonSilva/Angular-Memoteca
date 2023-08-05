@@ -4,145 +4,169 @@
       "id": 1,
       "conteudo": "Não sabendo que era impossível, foi lá e soube.",
       "autoria": "Coach de Fracassos",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Estudando Angular",
       "autoria": "Silva",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Testando função de editar",
       "autoria": "Ferreira",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
+      "id": 4,
       "conteudo": "Que a força esteja com você!",
       "autoria": "Mestre Yoda",
       "modelo": "modelo1",
-      "id": 4
+      "favorito": false
     },
     {
+      "id": 5,
       "conteudo": "Em vez de desistir nem comece",
       "autoria": "Coach de Fracassos",
       "modelo": "modelo2",
-      "id": 5
+      "favorito": true
     },
     {
+      "id": 6,
       "conteudo": "Acorde cedo para fracassar com calma.",
       "autoria": "Coach de Fracassos",
       "modelo": "modelo2",
-      "id": 6
+      "favorito": true
     },
     {
+      "id": 7,
       "conteudo": "Foi difícil chegar até aqui, mesmo não chegando em lugar algum.",
       "autoria": "Coach de Fracassos",
       "modelo": "modelo1",
-      "id": 7
+      "favorito": false
     },
     {
+      "id": 8,
       "conteudo": "A vida não é uma caixinha de surpresas, é um container de decepções.",
       "autoria": "Coache de Fracassos",
       "modelo": "modelo3",
-      "id": 8
+      "favorito": false
     },
     {
+      "id": 9,
       "conteudo": "Você não pode mudar o seu passado, mas pode estragar o seu futuro.",
       "autoria": "Coache de Fracassos",
       "modelo": "modelo2",
-      "id": 9
+      "favorito": false
     },
     {
+      "id": 10,
       "conteudo": "Nunca foi azar. Sempre foi incompetência.",
       "autoria": "Coache de Fracassos",
       "modelo": "modelo2",
-      "id": 10
+      "favorito": false
     },
     {
+      "id": 11,
       "conteudo": "O problema não é a segunda-feira, é a sua vida.",
       "autoria": "Coache de Fracassos",
       "modelo": "modelo1",
-      "id": 11
+      "favorito": false
     },
     {
+      "id": 12,
       "conteudo": "Tudo passa, nem que seja por cima da você.",
       "autoria": "Coache de Fracassos",
       "modelo": "modelo1",
-      "id": 12
+      "favorito": false
     },
     {
+      "id": 13,
       "conteudo": "Persista, insista e desista.",
       "autoria": "Coache de Fracassos",
       "modelo": "modelo1",
-      "id": 13
+      "favorito": false
     },
     {
+      "id": 14,
       "conteudo": "Estava ruim, depois de muito esforço ficou pior.",
       "autoria": "Coache de Fracassos",
       "modelo": "modelo1",
-      "id": 14
+      "favorito": false
     },
     {
+      "id": 15,
       "conteudo": "No início você acha que não vai conseguir. Depois você tem certeza.",
       "autoria": "Coache de Fracassos",
       "modelo": "modelo2",
-      "id": 15
+      "favorito": false
     },
     {
       "id": 16,
       "conteudo": "Você ainda não chegou lá, mas olha o quanto você já se fudeu",
       "autoria": "Coache de Fracassos",
-      "modelo": "modelo"
+      "modelo": "modelo",
+      "favorito": false
     },
     {
+      "id": 17,
       "conteudo": "Não seja foda. Desista!",
       "autoria": "Coache de Fracassos",
       "modelo": "modelo3",
-      "id": 17
+      "favorito": false
     },
     {
+      "id": 18,
       "conteudo": "Não tenha medo do fracasso. Tenha costume.",
       "autoria": "Coache de Fracassos",
       "modelo": "modelo1",
-      "id": 18
+      "favorito": false
     },
     {
+      "id": 19,
       "conteudo": "Sem lutar não há derrotas.",
       "autoria": "Coache de Fracassos",
       "modelo": "modelo3",
-      "id": 19
+      "favorito": false
     },
     {
+      "id": 20,
       "conteudo": "Você é mais fraco do que pensa.",
       "autoria": "Coache de Fracassos",
       "modelo": "modelo1",
-      "id": 20
+      "favorito": false
     },
     {
+      "id": 21,
       "conteudo": "O caminho é longo, mas a derrota é certa",
       "autoria": "Coache de Fracassos",
       "modelo": "modelo3",
-      "id": 21
+      "favorito": false
     },
     {
+      "id": 22,
       "conteudo": "Na volta a gente compra",
       "autoria": "mãe",
       "modelo": "modelo1",
-      "id": 22
+      "favorito": false
     },
     {
+      "id": 23,
       "conteudo": "Você não é todo mundo",
       "autoria": "mãe",
       "modelo": "modelo2",
-      "id": 23
+      "favorito": false
     },
     {
+      "id": 24,
       "conteudo": "Se fosse uma cobra tinha te picado",
       "autoria": "mãe",
       "modelo": "modelo3",
-      "id": 24
+      "favorito": false
     }
   ]
 }
