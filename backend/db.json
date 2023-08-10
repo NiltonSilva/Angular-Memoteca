@@ -12,21 +12,21 @@
       "conteudo": "Estudando Angular",
       "autoria": "Silva",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 3,
       "conteudo": "Testando função de editar",
       "autoria": "Ferreira",
       "modelo": "modelo3",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 4,
       "conteudo": "Que a força esteja com você!",
       "autoria": "Mestre Yoda",
       "modelo": "modelo1",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 5,
@@ -54,7 +54,7 @@
       "conteudo": "A vida não é uma caixinha de surpresas, é um container de decepções.",
       "autoria": "Coache de Fracassos",
       "modelo": "modelo3",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 9,
@@ -109,7 +109,7 @@
       "id": 16,
       "conteudo": "Você ainda não chegou lá, mas olha o quanto você já se fudeu",
       "autoria": "Coache de Fracassos",
-      "modelo": "modelo",
+      "modelo": "modelo3",
       "favorito": false
     },
     {
